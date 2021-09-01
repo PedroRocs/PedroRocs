@@ -2,18 +2,14 @@
 # Olá, eu sou Pedro Rocha
 
 <div>
-<img align="right" width="15%" src="https://github.com/PedroRocs/PedroRocs/blob/main/1005141.png"/>
+<img align="right" width="13%" src="https://github.com/PedroRocs/PedroRocs/blob/main/1005141.png"/>
 </div>
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 📚 Atualmente estou aprendendo Java Script
+- 👯 Estou procurando colaborar em propagar o conhecimento
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
+----
 
 
 <div>
@@ -26,9 +22,8 @@
   <img align="center" alt="Pedro-Bootstrap" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="Pedro-HTML" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pedro-CSS" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
 </div>
-  
+ <hr>
  <div align="center"> 
   <a href = "mailto:pedrorochacardoso2003@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-r-b49778192" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
