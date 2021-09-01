@@ -2,7 +2,7 @@
 # Olá, eu sou Pedro Rocha
 
 <div>
-<img align="right" width="80" src="https://github.com/PedroRocs/PedroRocs/blob/main/1005141.png"/>
+<img align="right" width="15%" src="https://github.com/PedroRocs/PedroRocs/blob/main/1005141.png"/>
 </div>
 
 - 🌱 I’m currently learning ...
