@@ -1,7 +1,9 @@
 
 # Olá, eu sou Pedro Rocha
 
-
+<div>
+<img align="right" width="80" src="https://github.com/PedroRocs/PedroRocs/blob/main/1005141.png"/>
+</div>
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -11,13 +13,16 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+
+
 <div>
   <a href="https://github.com/PedroRocs">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PedroRocs&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroRocs&layout=compact&langs_count=7&theme=blue"/>
+  <img height="150em" width="50%" src="https://github-readme-stats.vercel.app/api?username=PedroRocs&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
+  <img height="150em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroRocs&layout=compact&langs_count=7&theme=blue"/>
 </div>
-  
-  <div style="display: inline_block;margin:30px"><br>
+    
+  <div style="display:inline_block><br>
   <img align="center" alt="Pedro-Bootstrap" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="Pedro-HTML" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pedro-CSS" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
