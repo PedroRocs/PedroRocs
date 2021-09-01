@@ -8,8 +8,8 @@
 <br>
 
 - 📚 Atualmente estou aprendendo Java Script
-- 👯 Estou procurando colaborar em propagar o conhecimento
-- 🤔 Tenho como objetivo me torna um Desenvolvedor Front-End
+- 🌎 Estou procurando colaborar em propagar o conhecimento
+- 🎯Tenho como objetivo me torna um Desenvolvedor Front-End
 
 
 
