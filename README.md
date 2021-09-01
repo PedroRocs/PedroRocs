@@ -1,16 +1,22 @@
 
 # Olá, eu sou Pedro Rocha
 
+
 <div>
 <img align="right" width="13%" src="https://github.com/PedroRocs/PedroRocs/blob/main/1005141.png"/>
 </div>
+<br>
 
 - 📚 Atualmente estou aprendendo Java Script
 - 👯 Estou procurando colaborar em propagar o conhecimento
-- 🤔 I’m looking for help with ...
-- ⚡ Fun fact: ...
-----
+- 🤔 Tenho como objetivo me torna um Desenvolvedor Front-End
 
+
+
+<br>
+<hr>
+<br>
+<br>
 
 <div>
   <a href="https://github.com/PedroRocs">
@@ -25,7 +31,7 @@
 </div>
  <hr>
  <div align="center"> 
-  <a href = "mailto:pedrorochacardoso2003@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:pedrorochacardoso1908@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-r-b49778192" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/PedroRocs/PedroRocs/blob/output/github-contribution-grid-snake.svg)
