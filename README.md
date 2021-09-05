@@ -7,9 +7,9 @@
 </div>
 <br>
 
-- 📚 Atualmente estou aprendendo Java Script
-- 🌎 Estou disposto a colaborar em propagar o conhecimento
-- 🎯Tenho como objetivo me torna um Desenvolvedor Front-End
+- 📚 Atualmente estou aprendendo Java Script.
+- 🌎 Estou disposto a colaborar em propagar o conhecimento.
+- 🎯Tenho como objetivo me torna um Desenvolvedor Front-End.
 
 
 
