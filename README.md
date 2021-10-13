@@ -1,5 +1,5 @@
 
-# Olá, eu sou Pedro
+# Olá, eu sou o Pedro
 
 <div>
 <img align="right" width="13%" src="https://github.com/PedroRocs/PedroRocs/blob/main/1005141.png"/>
