@@ -1,6 +1,5 @@
 
-# Olá, eu sou Pedro Rocha
-
+# Olá, eu sou Pedro
 
 <div>
 <img align="right" width="13%" src="https://github.com/PedroRocs/PedroRocs/blob/main/1005141.png"/>
