@@ -11,13 +11,12 @@
 
 <br>
 <hr>
-<br>
-<br>
 
-<div>
+
+<div align="center">
   <a href="https://github.com/PedroRocs">
-  <img height="150em" width="50%" src="https://github-readme-stats.vercel.app/api?username=PedroRocs&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
-  <img height="150em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroRocs&layout=compact&langs_count=7&theme=blue"/>
+  <img height="150em" width="100%" src="https://github-readme-stats.vercel.app/api?username=PedroRocs&show_icons=true&theme=blue&include_all_commits=true&count_private=true" />
+  <img height="150em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroRocs&layout=compact&langs_count=7&theme=blue"/>
 </div>
 
   <div style="display:inline_block" align="center"><br>
@@ -26,7 +25,7 @@
   <img align="center" alt="Pedro-CSS" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
      <img align="center" alt="Pedro-JS" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
      <img align="center" alt="Pedro-Git" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-     
+
 </div>
  <hr>
  <div align="center">
