@@ -1,22 +1,37 @@
-# Olá, eu sou o Pedro
 
-<div>
-<img align="right" width="13%" src="https://github.com/PedroRocs/PedroRocs/blob/main/1005141.png"/>
-</div>
+
+#  **Eae, meu nome é Pedro!** &nbsp;<img src="imagens/../.github/workflows/imagens/Earth.gif" width="24px"><img src="imagens/../.github/workflows/imagens/Hi.gif" width="29px">
+
+<img src="/.github/workflows/imagens/Mario_Hello_Big.gif" width="70px" align="right">
+
+><em>Flertando com a tecnologia desde os 13 anos</em> <img src="/.github/workflows/imagens/PC.gif" width="60px" align="center">
+
+
+
+<hr>
+ 
+  
 <br>
+<br>
+<div align="center" >
+<img  width="300px" src="imagens/../.github/workflows/imagens/WhatsApp%20Image%202022-02-13%20at%2023.48.51.jpeg">
 
-- 📚 Atualmente estou aprendendo Java Script.
-- 🌎 Estou disposto a colaborar em propagar o conhecimento.
-- 🎯Tenho como objetivo me torna um Desenvolvedor Front-End.
 
+</div>
+
+<div align="center">
+
+# I am Programmer
+</div>
+<img src="/.github/workflows/imagens/dino.gif" width="100%" align="right">
 <br>
 <hr>
 
 
 <div align="center">
   <a href="https://github.com/PedroRocs">
-  <img height="150em" width="100%" src="https://github-readme-stats.vercel.app/api?username=PedroRocs&show_icons=true&theme=blue&include_all_commits=true&count_private=true" />
-  <img height="150em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroRocs&layout=compact&langs_count=7&theme=blue"/>
+  <img height="150em" width="10%" src="https://github-readme-stats.vercel.app/api?username=PedroRocs&show_icons=true&theme=dark&inline_all_commits=true&count_private=true" />
+  <img height="150em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroRocs&theme=dark&hide_langs_below=1/>
 </div>
 
   <div style="display:inline_block" align="center"><br>
