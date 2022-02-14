@@ -28,10 +28,10 @@
 <hr>
 
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/PedroRocs">
-  <img height="150em" width="50%" src="https://github-readme-stats.vercel.app/api?username=PedroRocs&show_icons=true&theme=dark&inline_all_commits=true&count_private=true" / align="left">
-  <img height="150em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroRocs&layout=compact&langs_count=7&theme=dark"/ align="right">
+  <img height="150em" width="100%" src="https://github-readme-stats.vercel.app/api?username=PedroRocs&show_icons=true&theme=dark&inline_all_commits=true&count_private=true" />
+  <img height="150em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroRocs&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
   <div style="display:inline_block" align="center"><br>
