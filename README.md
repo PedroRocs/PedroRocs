@@ -6,17 +6,10 @@
 
 ><em>Flertando com a tecnologia desde os 13 anos</em> <img src="/.github/workflows/imagens/PC.gif" width="60px" align="center" >
 
-
-
 <hr>
  
-  
-<br>
-<br>
 <div align="center" >
-<img  width="300px" src="imagens/../.github/workflows/imagens/WhatsApp%20Image%202022-02-13%20at%2023.48.51.jpeg">
-
-
+<img  width="200px" src="imagens/../.github/workflows/imagens/WhatsApp%20Image%202022-02-13%20at%2023.48.51.jpeg">
 </div>
 
 <div align="center">
