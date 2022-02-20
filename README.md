@@ -4,7 +4,7 @@
 
 <img src="/.github/workflows/imagens/Mario_Hello_Big.gif" width="70px" align="right">
 
-><em>Flertando com a tecnologia desde os 13 anos</em> <img src="/.github/workflows/imagens/PC.gif" width="60px" align="center">
+><em>Flertando com a tecnologia desde os 13 anos</em> <img src="/.github/workflows/imagens/PC.gif" width="60px" align="center" >
 
 
 
@@ -23,7 +23,9 @@
 
 # I am Programmer
 </div>
-<img src="/.github/workflows/imagens/dino.gif" width="100%" align="right">
+<p align="center"> Volte sempre ! <img src="/.github/workflows/imagens/Hi.gif" width="30px"> </p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/PedroRocs/count.svg" /></p>
+
 <br>
 <hr>
 
