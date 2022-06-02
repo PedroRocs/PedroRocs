@@ -1,22 +1,22 @@
 
 
-#  **Eae, meu nome é Pedro!** &nbsp;<img src="imagens/../.github/workflows/imagens/Earth.gif" width="24px" height="24px"><img src="imagens/../.github/workflows/imagens/Hi.gif" width="10px !important">
+#  **Eae, meu nome é Pedro!** &nbsp;<img src="imagens/../.github/workflows/imagens/Earth.gif" width="24px" height="24px"><img src="imagens/../.github/workflows/imagens/Hi.gif" width="10px" height="10px">
 
-<img src="/.github/workflows/imagens/Mario_Hello_Big.gif" width="40px" align="right">
+<img src="/.github/workflows/imagens/Mario_Hello_Big.gif" width="40px" height="40px"align="right">
 
-><em>Flertando com a tecnologia desde os 13 anos</em> <img src="/.github/workflows/imagens/PC.gif" width="50px" align="center" >
+><em>Flertando com a tecnologia desde os 13 anos</em> <img src="/.github/workflows/imagens/PC.gif" width="50px" height="50px" align="center" >
 
 <hr>
  
 <div align="center" >
-<img  width="200px" src="imagens/../.github/workflows/imagens/WhatsApp%20Image%202022-02-13%20at%2023.48.51.jpeg">
+<img  width="200px" height="200px" src="imagens/../.github/workflows/imagens/WhatsApp%20Image%202022-02-13%20at%2023.48.51.jpeg">
 </div>
 
 <div align="center">
 
 # I am Programmer
 </div>
-<p align="center"> Volte sempre ! <img src="/.github/workflows/imagens/Hi.gif" width="30px"> </p>
+<p align="center"> Volte sempre ! <img src="/.github/workflows/imagens/Hi.gif" width="30px" height="30px"> </p>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/PedroRocs/count.svg" /></p>
 
 <br>
