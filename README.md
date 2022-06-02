@@ -16,6 +16,10 @@
 
 # I am Programmer
 </div>
+<p align="center"> Volte sempre ! <img src="/.github/workflows/imagens/Hi.gif" width="30px"> </p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/PedroRocs/count.svg" /></p>
+
+<br>
 <hr>
 
 
@@ -37,9 +41,6 @@
  <div align="center">
   <a href = "mailto:pedrorochacardoso1908@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedrorocs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <hr>
-<p align="center"> <b>VOLTE SEMPRE !</b> <img src="/.github/workflows/imagens/Hi.gif" width="30px"> </p>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/PedroRocs/count.svg" /></p>
 
 
 ![Snake animation](https://github.com/PedroRocs/PedroRocs/blob/output/github-contribution-grid-snake.svg)
