@@ -1,6 +1,6 @@
 
 
-#  **Eae, meu nome é Pedro!** &nbsp;<img src="imagens/../.github/workflows/imagens/Earth.gif" width="24px"><img src="imagens/../.github/workflows/imagens/Hi.gif" width="10px">
+#  **Eae, meu nome é Pedro!** &nbsp;<img src="imagens/../.github/workflows/imagens/Earth.gif" width="24px"><img src="imagens/../.github/workflows/imagens/Hi.gif" width="10px !important">
 
 <img src="/.github/workflows/imagens/Mario_Hello_Big.gif" width="40px" align="right">
 
