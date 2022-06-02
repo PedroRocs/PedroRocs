@@ -1,8 +1,8 @@
 
 
-#  **Eae, meu nome é Pedro!** &nbsp;<img src="imagens/../.github/workflows/imagens/Earth.gif" width="24px"><img src="imagens/../.github/workflows/imagens/Hi.gif" width="29px">
+#  **Eae, meu nome é Pedro!** &nbsp;<img src="imagens/../.github/workflows/imagens/Earth.gif" width="24px"><img src="imagens/../.github/workflows/imagens/Hi.gif" width="10px">
 
-<img src="/.github/workflows/imagens/Mario_Hello_Big.gif" width="70px" align="right">
+<img src="/.github/workflows/imagens/Mario_Hello_Big.gif" width="40px" align="right">
 
 ><em>Flertando com a tecnologia desde os 13 anos</em> <img src="/.github/workflows/imagens/PC.gif" width="50px" align="center" >
 
