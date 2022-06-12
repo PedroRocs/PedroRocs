@@ -4,7 +4,7 @@
 
 <img src="/.github/workflows/imagens/Mario_Hello_Big.gif" width="40px" height="40px" align="right">
 
-><em>Flertando com a tecnologia desde os 13 anos</em> <img src="/.github/workflows/imagens/PC.gif" width="50px" height="50px" align="center" >
+><em>Flertando com a tecnologia desde os 13 anos</em> <img src="/.github/workflows/imagens/PC.gif" width="40px" height="40px" align="center" >
 
 <hr>
  
